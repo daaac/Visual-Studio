@@ -10,7 +10,8 @@ namespace Gitprueba1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Eres modelo");
+            
+            Console.WriteLine("El campi es modelo");
 
         }
     }
